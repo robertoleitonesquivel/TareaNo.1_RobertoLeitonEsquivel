@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Propuestas>
+  <Propuesta>
+    <TypeIdentificacion>1</TypeIdentificacion>
+    <Identificacion>115550657</Identificacion>
+    <Nombre>Roberto Andrés</Nombre>
+    <Apellidos>Leitón Esquivel</Apellidos>
+    <Telefono>72084596</Telefono>
+    <Email>rleiton22@gmail.com</Email>
+    <Provincia>1</Provincia>
+    <Canton>19</Canton>
+    <Propuesta>Mejorar la calidad del software</Propuesta>
+  </Propuesta>
+  <Propuesta>
+    <TypeIdentificacion>1</TypeIdentificacion>
+    <Identificacion>114930218</Identificacion>
+    <Nombre>Róger</Nombre>
+    <Apellidos>Leitón Esquivel</Apellidos>
+    <Telefono>78451236</Telefono>
+    <Email>roberto@gmail.com</Email>
+    <Provincia>6</Provincia>
+    <Canton>07</Canton>
+    <Propuesta>Que los jovenes tengan mejores condiciones de vida</Propuesta>
+  </Propuesta>
+</Propuestas>

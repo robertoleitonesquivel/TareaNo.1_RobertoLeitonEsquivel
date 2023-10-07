@@ -1,0 +1,412 @@
+[
+    {
+        "IdProvincia": "1",
+        "IdCanton": "01",
+        "Canton": "Central"
+    },
+    {
+        "IdProvincia": "1",
+        "IdCanton": "02",
+        "Canton": "Escazú"
+    },
+    {
+        "IdProvincia": "1",
+        "IdCanton": "03",
+        "Canton": "Desamparados"
+    },
+    {
+        "IdProvincia": "1",
+        "IdCanton": "04",
+        "Canton": "Puriscal"
+    },
+    {
+        "IdProvincia": "1",
+        "IdCanton": "05",
+        "Canton": "Tarrazú"
+    },
+    {
+        "IdProvincia": "1",
+        "IdCanton": "06",
+        "Canton": "Aserrí"
+    },
+    {
+        "IdProvincia": "1",
+        "IdCanton": "07",
+        "Canton": "Mora"
+    },
+    {
+        "IdProvincia": "1",
+        "IdCanton": "08",
+        "Canton": "Goicoechea"
+    },
+    {
+        "IdProvincia": "1",
+        "IdCanton": "09",
+        "Canton": "Santa Ana"
+    },
+    {
+        "IdProvincia": "1",
+        "IdCanton": "10",
+        "Canton": "Alajuelita"
+    },
+    {
+        "IdProvincia": "1",
+        "IdCanton": "11",
+        "Canton": "Vázquez De Coronado"
+    },
+    {
+        "IdProvincia": "1",
+        "IdCanton": "12",
+        "Canton": "Acosta"
+    },
+    {
+        "IdProvincia": "1",
+        "IdCanton": "13",
+        "Canton": "Tibás"
+    },
+    {
+        "IdProvincia": "1",
+        "IdCanton": "14",
+        "Canton": "Moravia"
+    },
+    {
+        "IdProvincia": "1",
+        "IdCanton": "15",
+        "Canton": "Montes De Oca"
+    },
+    {
+        "IdProvincia": "1",
+        "IdCanton": "16",
+        "Canton": "Turrubares"
+    },
+    {
+        "IdProvincia": "1",
+        "IdCanton": "17",
+        "Canton": "Dota"
+    },
+    {
+        "IdProvincia": "1",
+        "IdCanton": "18",
+        "Canton": "Curridabat"
+    },
+    {
+        "IdProvincia": "1",
+        "IdCanton": "19",
+        "Canton": "Pérez Zeledón"
+    },
+    {
+        "IdProvincia": "1",
+        "IdCanton": "20",
+        "Canton": "León Cortés Castro"
+    },
+    {
+        "IdProvincia": "2",
+        "IdCanton": "01",
+        "Canton": "Central"
+    },
+    {
+        "IdProvincia": "2",
+        "IdCanton": "02",
+        "Canton": "San Ramón"
+    },
+    {
+        "IdProvincia": "2",
+        "IdCanton": "03",
+        "Canton": "Grecia"
+    },
+    {
+        "IdProvincia": "2",
+        "IdCanton": "04",
+        "Canton": "San Mateo"
+    },
+    {
+        "IdProvincia": "2",
+        "IdCanton": "05",
+        "Canton": "Atenas"
+    },
+    {
+        "IdProvincia": "2",
+        "IdCanton": "06",
+        "Canton": "Naranjo"
+    },
+    {
+        "IdProvincia": "2",
+        "IdCanton": "07",
+        "Canton": "Palmares"
+    },
+    {
+        "IdProvincia": "2",
+        "IdCanton": "08",
+        "Canton": "Poás"
+    },
+    {
+        "IdProvincia": "2",
+        "IdCanton": "09",
+        "Canton": "Orotina"
+    },
+    {
+        "IdProvincia": "2",
+        "IdCanton": "10",
+        "Canton": "San Carlos"
+    },
+    {
+        "IdProvincia": "2",
+        "IdCanton": "11",
+        "Canton": "Zarcero"
+    },
+    {
+        "IdProvincia": "2",
+        "IdCanton": "12",
+        "Canton": "Sarchí"
+    },
+    {
+        "IdProvincia": "2",
+        "IdCanton": "13",
+        "Canton": "Upala"
+    },
+    {
+        "IdProvincia": "2",
+        "IdCanton": "14",
+        "Canton": "Los Chiles"
+    },
+    {
+        "IdProvincia": "2",
+        "IdCanton": "15",
+        "Canton": "Guatuso"
+    },
+    {
+        "IdProvincia": "2",
+        "IdCanton": "16",
+        "Canton": "Río Cuarto"
+    },
+    {
+        "IdProvincia": "3",
+        "IdCanton": "01",
+        "Canton": "Central"
+    },
+    {
+        "IdProvincia": "3",
+        "IdCanton": "02",
+        "Canton": "Paraíso"
+    },
+    {
+        "IdProvincia": "3",
+        "IdCanton": "03",
+        "Canton": "La Unión"
+    },
+    {
+        "IdProvincia": "3",
+        "IdCanton": "04",
+        "Canton": "Jiménez"
+    },
+    {
+        "IdProvincia": "3",
+        "IdCanton": "05",
+        "Canton": "Turrialba"
+    },
+    {
+        "IdProvincia": "3",
+        "IdCanton": "06",
+        "Canton": "Alvarado"
+    },
+    {
+        "IdProvincia": "3",
+        "IdCanton": "07",
+        "Canton": "Oreamuno"
+    },
+    {
+        "IdProvincia": "3",
+        "IdCanton": "08",
+        "Canton": "El Guarco"
+    },
+    {
+        "IdProvincia": "4",
+        "IdCanton": "01",
+        "Canton": "Central"
+    },
+    {
+        "IdProvincia": "4",
+        "IdCanton": "02",
+        "Canton": "Barva"
+    },
+    {
+        "IdProvincia": "4",
+        "IdCanton": "03",
+        "Canton": "Santo Domingo"
+    },
+    {
+        "IdProvincia": "4",
+        "IdCanton": "04",
+        "Canton": "Santa Barbara"
+    },
+    {
+        "IdProvincia": "4",
+        "IdCanton": "05",
+        "Canton": "San Rafael"
+    },
+    {
+        "IdProvincia": "4",
+        "IdCanton": "06",
+        "Canton": "San Isidro"
+    },
+    {
+        "IdProvincia": "4",
+        "IdCanton": "07",
+        "Canton": "Belén"
+    },
+    {
+        "IdProvincia": "4",
+        "IdCanton": "08",
+        "Canton": "Flores"
+    },
+    {
+        "IdProvincia": "4",
+        "IdCanton": "09",
+        "Canton": "San Pablo"
+    },
+    {
+        "IdProvincia": "4",
+        "IdCanton": "10",
+        "Canton": "Sarapiquí"
+    },
+    {
+        "IdProvincia": "5",
+        "IdCanton": "01",
+        "Canton": "Liberia"
+    },
+    {
+        "IdProvincia": "5",
+        "IdCanton": "02",
+        "Canton": "Nicoya"
+    },
+    {
+        "IdProvincia": "5",
+        "IdCanton": "03",
+        "Canton": "Santa Cruz"
+    },
+    {
+        "IdProvincia": "5",
+        "IdCanton": "04",
+        "Canton": "Bagaces"
+    },
+    {
+        "IdProvincia": "5",
+        "IdCanton": "05",
+        "Canton": "Carrillo"
+    },
+    {
+        "IdProvincia": "5",
+        "IdCanton": "06",
+        "Canton": "Cañas"
+    },
+    {
+        "IdProvincia": "5",
+        "IdCanton": "07",
+        "Canton": "Abangares"
+    },
+    {
+        "IdProvincia": "5",
+        "IdCanton": "08",
+        "Canton": "Tilarán"
+    },
+    {
+        "IdProvincia": "5",
+        "IdCanton": "09",
+        "Canton": "Nandayure"
+    },
+    {
+        "IdProvincia": "5",
+        "IdCanton": "10",
+        "Canton": "La Cruz"
+    },
+    {
+        "IdProvincia": "5",
+        "IdCanton": "11",
+        "Canton": "Hojancha"
+    },
+    {
+        "IdProvincia": "6",
+        "IdCanton": "01",
+        "Canton": "Central"
+    },
+    {
+        "IdProvincia": "6",
+        "IdCanton": "02",
+        "Canton": "Esparza"
+    },
+    {
+        "IdProvincia": "6",
+        "IdCanton": "03",
+        "Canton": "Buenos Aires"
+    },
+    {
+        "IdProvincia": "6",
+        "IdCanton": "04",
+        "Canton": "Montes De Oro"
+    },
+    {
+        "IdProvincia": "6",
+        "IdCanton": "05",
+        "Canton": "Osa"
+    },
+    {
+        "IdProvincia": "6",
+        "IdCanton": "06",
+        "Canton": "Quepos"
+    },
+    {
+        "IdProvincia": "6",
+        "IdCanton": "07",
+        "Canton": "Golfito"
+    },
+    {
+        "IdProvincia": "6",
+        "IdCanton": "08",
+        "Canton": "Coto Brus"
+    },
+    {
+        "IdProvincia": "6",
+        "IdCanton": "09",
+        "Canton": "Parrita"
+    },
+    {
+        "IdProvincia": "6",
+        "IdCanton": "10",
+        "Canton": "Corredores"
+    },
+    {
+        "IdProvincia": "6",
+        "IdCanton": "11",
+        "Canton": "Garabito"
+    },
+    {
+        "IdProvincia": "7",
+        "IdCanton": "01",
+        "Canton": "Central"
+    },
+    {
+        "IdProvincia": "7",
+        "IdCanton": "02",
+        "Canton": "Pococí"
+    },
+    {
+        "IdProvincia": "7",
+        "IdCanton": "03",
+        "Canton": "Siquirres"
+    },
+    {
+        "IdProvincia": "7",
+        "IdCanton": "04",
+        "Canton": "Talamanca"
+    },
+    {
+        "IdProvincia": "7",
+        "IdCanton": "05",
+        "Canton": "Matina"
+    },
+    {
+        "IdProvincia": "7",
+        "IdCanton": "06",
+        "Canton": "Guácimo"
+    }
+]
