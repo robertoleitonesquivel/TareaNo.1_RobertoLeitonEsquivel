@@ -140,6 +140,7 @@
             $('#<%= provincia.ClientID %>').val('');
             $('#<%= canton.ClientID %>').val('');
             $('#<%= propuesta.ClientID %>').val('');
+            $('#<%= canton.ClientID %>').empty();
         }
 
         function GetCantones(provinciaId) {

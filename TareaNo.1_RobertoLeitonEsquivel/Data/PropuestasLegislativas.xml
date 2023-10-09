@@ -45,4 +45,16 @@
     <Canton>19</Canton>
     <Propuesta>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis augue nec justo porta scelerisque. Integer volutpat blandit ligula, a vulputate libero efficitur nec. Ut suscipit condimentum risus a dictum. Nulla nec bibendum justo. Fusce nec ullamcorper ligula. Nunc fringilla nulla vel justo egestas congue. Sed luctus justo a nisi cursus pharetra. Integer malesuada viverra felis a pharetra.</Propuesta>
   </Propuesta>
+  <Propuesta>
+    <TypeIdentificacion>1</TypeIdentificacion>
+    <Identificacion>115550657</Identificacion>
+    <Nombre>sdfsd</Nombre>
+    <Apellidos>sdfsdf</Apellidos>
+    <Telefono>7845-6936</Telefono>
+    <Email>rleiton@hotmail.com</Email>
+    <Provincia>1</Provincia>
+    <Canton>02</Canton>
+    <Propuesta>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis augue nec justo porta scelerisque. Integer volutpat blandit ligula, a vulputate libero efficitur nec. Ut suscipit condimentum risus a dictum. Nulla nec bibendum justo. Fusce nec ullamcorper ligula. Nunc fringilla nulla vel justo egestas congue. Sed luctus justo a nisi cursus pharetra. Integer malesuada viverra felis a pharetra.
+</Propuesta>
+  </Propuesta>
 </Propuestas>
