@@ -22,4 +22,27 @@
     <Canton>07</Canton>
     <Propuesta>Que los jovenes tengan mejores condiciones de vida</Propuesta>
   </Propuesta>
+  <Propuesta>
+    <TypeIdentificacion>2</TypeIdentificacion>
+    <Identificacion>122200738626</Identificacion>
+    <Nombre>Wendy</Nombre>
+    <Apellidos>Leiton</Apellidos>
+    <Telefono>3434-7845</Telefono>
+    <Email>wendy@hotmail.com</Email>
+    <Provincia>1</Provincia>
+    <Canton>01</Canton>
+    <Propuesta>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis augue nec justo porta scelerisque. Integer volutpat blandit ligula, a vulputate libero efficitur nec. Ut suscipit condimentum risus a dictum. Nulla nec bibendum justo. Fusce nec ullamcorper ligula. Nunc fringilla nulla vel justo egestas congue. Sed luctus justo a nisi cursus pharetra. Integer malesuada viverra felis a pharetra.
+</Propuesta>
+  </Propuesta>
+  <Propuesta>
+    <TypeIdentificacion>1</TypeIdentificacion>
+    <Identificacion>115550657</Identificacion>
+    <Nombre>Roberto</Nombre>
+    <Apellidos>Leiton</Apellidos>
+    <Telefono>7845-4589</Telefono>
+    <Email>roberto.leiton@uned.cr</Email>
+    <Provincia>1</Provincia>
+    <Canton>19</Canton>
+    <Propuesta>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis augue nec justo porta scelerisque. Integer volutpat blandit ligula, a vulputate libero efficitur nec. Ut suscipit condimentum risus a dictum. Nulla nec bibendum justo. Fusce nec ullamcorper ligula. Nunc fringilla nulla vel justo egestas congue. Sed luctus justo a nisi cursus pharetra. Integer malesuada viverra felis a pharetra.</Propuesta>
+  </Propuesta>
 </Propuestas>
